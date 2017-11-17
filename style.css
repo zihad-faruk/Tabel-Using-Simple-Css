@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    align-content: center;
+    background: white;
+}
+
+
+table {
+    font-family: tahoma;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th{
+     border: 1px solid #dddddd;
+    background-color:#66BC6D;
+    padding: 10px
+
+}
+
+
+td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+}
+
+tr:nth-child(odd) {
+    background-color:#B1FAB7;
+}
